@@ -14,7 +14,6 @@ h1{
     height: 360px;
     border-radius: 10px;
     margin-top: 20px;
-    
 }
 
 .result{
@@ -23,10 +22,12 @@ h1{
     color: white;
     margin: 0px;
     margin-bottom: 10px;
-    height: 45px;
+    height: 50px;
     margin-top: 20px;
     font-weight: bolder;
     border-radius: 10px;
+    font-weight: 900;
+    text-align: right;
     
 }
 .clearBtn{
@@ -35,7 +36,8 @@ h1{
     width: 68px;
     margin: 2px;
     height: 50px;
-    font-weight: bolder;
+    font-weight:bolder;
+    background-position: left;
 
 }
 
